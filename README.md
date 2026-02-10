@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hey 👋 I'm Tushar  <br><br>🎓 CSE Student | 💻 MERN Stack Developer  <br><br>I enjoy turning ideas into real-world web applications.  <br>Focused on writing clean, scalable, and efficient code.<br><br>⚡ What I Do:<br>- Build responsive full-stack web apps<br>- Create REST APIs with Node & Express<br>- Work with MongoDB databases<br>- Practice DSA regularly<br><br>🎯 Goal: Become a skilled Full-Stack Developer & Software Engineer.
+# Hey 👋 I'm Tushar  <br><br>🎓 CSE Student | 💻 MERN Stack Developer  <br><br>I enjoy turning ideas into real-world web applications.  <br>Focused on writing clean, scalable, and efficient code.
 
 
 ## 🌐 Socials:
